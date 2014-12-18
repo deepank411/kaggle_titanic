@@ -1,0 +1,5 @@
+setwd("F:/Kaggle Titanic")
+train <- read.csv("F:/Kaggle Titanic/train.csv")
+  View(train)
+test <- read.csv("F:/Kaggle Titanic/test.csv")
+  Vistr(train)ew(test)
